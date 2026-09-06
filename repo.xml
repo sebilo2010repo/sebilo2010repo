@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on YouTube (Italian)</name>
+			<url>https://youtube.com/@sebilo2010</url>
+			<iconclass>fa fa-youtube</iconclass>
+		</link>
+		<link>
+			<name>I want this repo template</name>
+			<url>https://github.com/supermamon/Reposi3/</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>
