@@ -1,0 +1,15 @@
+<changelog>
+	<changes>
+		<version>3.2</version>
+		<change>
+    Veteris now supports Community Apps with a dedicated category and various other improvements.
+    Recommended versions of an App are now highlighted.
+    You can now see detailed information about each version, instead of only information about the app as a whole.
+    New app icon for iOS 7 and above.
+    Coming soon: More information about apps, including guides on how to fix them.
+    The badge on the Home tab can now be disabled.
+    Fixed the hitboxes of some Cancel buttons in action sheets.
+    Bug fixes and various other small improvements.
+</change>
+	</changes>
+</changelog>
